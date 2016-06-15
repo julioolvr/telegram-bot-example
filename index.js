@@ -4,6 +4,7 @@ dotenv.load()
 
 var path = require('path')
 
+require('babel-polyfill')
 require('babel-register')
 
 var Bot = require('./src/bot').default
