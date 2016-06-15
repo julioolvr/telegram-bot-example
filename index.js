@@ -7,5 +7,5 @@ var path = require('path')
 require('babel-register')
 
 var Bot = require('./src/bot').default
-var bot = new Bot()
+var bot = new Bot(process.env.BOT_TOKEN)
 bot.start()
