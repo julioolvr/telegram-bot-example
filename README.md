@@ -1,6 +1,6 @@
 # Telegram example bot
 
-Example for the bot described in http://joliv.me/2016/06/16/telegram-bot-fsm-async-await/
+Example for the bot described in https://julio.li/b/2016/06/16/telegram-bot-fsm-async-await/
 
 # How to run it
 
